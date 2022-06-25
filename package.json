@@ -6,7 +6,7 @@
 	"version": "0.0.2",
 	"repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-wordcount.git"
+    "url": "https://github.com/Akashno/calculator-on-command-palet"
 	},
     "icon": "images/icon.png",
 	"engines": {
