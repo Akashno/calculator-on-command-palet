@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/Akashno/calculator-on-command-palet"
 	},
-    "icon": "images/icon.png",
+    "icon": "icon.png",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
